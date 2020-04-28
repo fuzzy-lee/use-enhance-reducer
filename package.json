@@ -1,0 +1,31 @@
+{
+    "name": "@lswlishiwen/use-enhance-reducer",
+    "version": "1.0.2",
+    "description": "增强react useReducer支持dispatch一个函数",
+    "main": "./dist/useEnhanceReducer.js",
+    "scripts": {
+        "build": "webpack --config script/webpack.config.prod.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fuzzy-lee/use-enhance-reducer.git"
+    },
+    "keywords": [],
+    "author": "lishiwen <1071186443@qq.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/fuzzy-lee/use-enhance-reducer/issues"
+    },
+    "homepage": "https://github.com/fuzzy-lee/use-enhance-reducer#readme",
+    "devDependencies": {
+        "webpack": "^4.43.0",
+        "webpack-cli": "^3.3.11"
+    },
+    "dependencies": {
+        "react": "^16.13.1"
+    },
+    "peerDependencies": {
+        "react": "^16.8.2"
+    }
+}
