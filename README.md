@@ -1,4 +1,6 @@
 # use-enhance-reducer
+![GitHub stars](https://img.shields.io/github/stars/fuzzy-lee/use-enhance-reducer?style=social)![GitHub](https://img.shields.io/github/license/fuzzy-lee/use-enhance-reducer)![npm bundle size (scoped)](https://img.shields.io/bundlephobia/minzip/@lswlishiwen/use-enhance-reducer?color=rgb%28124%2C176%2C18%29)![GitHub last commit](https://img.shields.io/github/last-commit/fuzzy-lee/use-enhance-reducer?color=RGB%28141%2C186%2C5%29)
+
 增强react useReducer支持dispatch一个函数
 
 
