@@ -1,6 +1,6 @@
 {
     "name": "@lswlishiwen/use-enhance-reducer",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "增强react useReducer支持dispatch一个函数",
     "main": "./dist/useEnhanceReducer.js",
     "scripts": {
